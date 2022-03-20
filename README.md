@@ -1,1 +1,1 @@
-# A Svelte template on Gitpod with vite
+# A Svelte template to use gitpod with vite
